@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ysos_libs_as8.1"
